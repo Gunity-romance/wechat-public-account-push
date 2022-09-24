@@ -32,7 +32,7 @@ export const USER_CONFIG = {
     // 每日一言
     oneTalk: false,
     // 土味情话(彩虹屁)
-    earthyLoveWords: false,
+    earthyLoveWords: true,
     // 朋友圈文案
     momentCopyrighting: false,
     // 毒鸡汤
@@ -41,7 +41,7 @@ export const USER_CONFIG = {
     poetry: false,
     
     /** 星座运势 */
-    horoscope: false,
+    horoscope: true,
     
     /** 生日消息和节日消息 */
     birthdayMessage: true,
@@ -95,16 +95,16 @@ export const USER_CONFIG = {
       ]
     },
     {
-      name: "老婆1",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
+      name: "小荣",
+      id: "oW-tB6QFTQX0K-HAorLuGjBC14O8",
+      useTemplateId: "早上好呀",
+      province: "河南",
+      city: "许昌",
+      horoscopeDate: '07-02',
+      horoscopeDateType: '今日',
+      openUrl: "https://s.weibo.com/top/summary?cate=realtimehot",
+      festivals: [{"type": "*生日", "name": "小荣", "year": "2000", "date": "07-02"},],
+      customizedDateList: [{"keyword": "love_day", date: "2022-08-07"},]
     },
     {
       name: "老婆2",
