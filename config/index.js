@@ -34,11 +34,11 @@ export const USER_CONFIG = {
     // 土味情话(彩虹屁)
     earthyLoveWords: true,
     // 朋友圈文案
-    momentCopyrighting: false,
+    momentCopyrighting: true,
     // 毒鸡汤
     poisonChickenSoup: false,
     // 古诗古文
-    poetry: false,
+    poetry: true,
     
     /** 星座运势 */
     horoscope: true,
@@ -64,7 +64,7 @@ export const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oW-tB6SL0leYaObvMMmwAPQEqV98",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "5jYywHXlIAt_5IjqwzjUhutzXRGql9LdNZSg2Az0AhM",
+      useTemplateId: "GBAJHxRCYT-c34m-eG0GIL0vDaiDZsNrY58ua3rGS2s",
       // 所在省份
       province: "河南",
       // 所在城市
@@ -97,7 +97,7 @@ export const USER_CONFIG = {
     {
       name: "小荣",
       id: "oW-tB6QFTQX0K-HAorLuGjBC14O8",
-      useTemplateId: "5jYywHXlIAt_5IjqwzjUhutzXRGql9LdNZSg2Az0AhM",
+      useTemplateId: "GBAJHxRCYT-c34m-eG0GIL0vDaiDZsNrY58ua3rGS2s",
       province: "河南",
       city: "许昌",
       horoscopeDate: '07-02',
@@ -109,7 +109,7 @@ export const USER_CONFIG = {
     {
       name: "Z",
       id: "oW-tB6Q9VPgUL4JH5SZCFHrem_-o",
-      useTemplateId: "5jYywHXlIAt_5IjqwzjUhutzXRGql9LdNZSg2Az0AhM",
+      useTemplateId: "GBAJHxRCYT-c34m-eG0GIL0vDaiDZsNrY58ua3rGS2s",
       province: "河南",
       city: "郑州",
       horoscopeDate: '12-22',
